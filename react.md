@@ -8,6 +8,8 @@
 
 | 2 | [What is React's pro and cons?](#What-is-React's-pro-and-cons?) |
 
+| 3 | [What is React's pro and cons?](#What-is-React's-pro-and-cons?) |
+
 1. ### What is React?
 
    **[⬆ Back to Top](#table-of-contents)**
