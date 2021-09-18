@@ -5,7 +5,7 @@
 |     | **Core React**                                                          |
 | 1   | [What is DOM?](#what-is-dom)                                            |
 | 2   | [What is promise?](#what-is-promise?)                                   |
-| 3   | [What is prototype?](#what-is-promise?)                                 |
+| 3   | [What is prototype?](#what-is-prototype?)                               |
 | 4   | [What Are Truthy and Falsy Values?](#What-Are-Truthy-and-Falsy-Values?) |
 
 1. ### What is DOM?
