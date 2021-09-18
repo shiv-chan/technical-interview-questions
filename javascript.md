@@ -2,7 +2,7 @@
 
 | No. | Questions                                                               |
 | --- | ----------------------------------------------------------------------- |
-|     | **Core React**                                                          |
+|     | **Core javascript**                                                     |
 | 1   | [What is DOM?](#what-is-dom)                                            |
 | 2   | [What is promise?](#what-is-promise?)                                   |
 | 3   | [What is prototype?](#what-is-prototype?)                               |
