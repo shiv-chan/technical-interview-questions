@@ -12,7 +12,7 @@
 
    **[⬆ Back to Top](#table-of-contents)**
 
-2. ### What is promise??
+2. ### What is promise?
 
    **[⬆ Back to Top](#table-of-contents)**
 
