@@ -1,8 +1,7 @@
 ### Table of Contents
 
-| No. | Questions |
-| --- | --------- |
-|   | **Core React** |
-|1  | [What is React?](#what-is-react) |
-|2  | [What are the major features of React?/what is react paradime?](#what-are-the-major-features-of-react) |
-
+| No. | Questions                                                                             |
+| --- | ------------------------------------------------------------------------------------- |
+|     | **HTML CSS**                                                                          |
+| 1   | [What is the global problem of css?](#What-is-the-global-problem-of-ccs)              |
+| 2   | [What is the problem of css in Javascript](#What-is-the-problem-of-css-in-Javascript) |
