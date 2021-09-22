@@ -4,7 +4,7 @@
 | --- | -------------------------------------------------------------------------------------------------------- |
 |     | **Core React**                                                                                           |
 | 1   | [What is React?](#what-is-react)                                                                         |
-| 2   | [What are the major features of React? / What is react paradime?](#what-are-the-major-features-of-react) |
+| 2   | [What are the major features of React?](#what-are-the-major-features-of-react) |
 | 3   | [What is react paradigme?](#What-is-react-paradime)                                                       |
 | 4   | [What is React's pro and cons?](#What-is-React's-pro-and-cons?)                                          |
 
@@ -16,7 +16,7 @@
 
    **[⬆ Back to Top](#table-of-contents)**
 
-3. ### What is react paradime?
+3. ### What is react paradigme?
 
    **[⬆ Back to Top](#table-of-contents)**
 
